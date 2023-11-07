@@ -1,0 +1,1 @@
+Esse repositorio tem como o intuito de seguir a aula de programação em Banco de dados da Fatec Ipiranga. Nesta aula estamos aprendendo um pouco mais sobre o PL/pgSQL, especificamente de o estudo de funções no banco de dados.
